@@ -1,4 +1,4 @@
-# Project to make Counter
+# Project: Making a counter button in React
 
 In this project, we will create a React Project of counter. The purpose of this project is to understand why we need hooks in React.
 
