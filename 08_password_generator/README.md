@@ -7,4 +7,7 @@ We learned three new hooks while doing this project:
 - useCallback
 
 How it looks like:
-<video src='08_password_generator\public\video.mp4' width=180/>
+
+
+https://github.com/UjjawalGusain/React/assets/130745509/40722848-9039-438f-9d74-800fbb4a614f
+
