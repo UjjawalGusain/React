@@ -25,7 +25,7 @@ function App() {
 
     for(let i = 0; i<length; i++)
     {
-        let index = Math.floor(Math.random() * str.length + 1);
+        let index = Math.floor(Math.random() * str.length);
         pass += str.charAt(index);
     }
 
