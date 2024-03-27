@@ -10,3 +10,7 @@ Here we learned about:
 - Optimizing the code
 
 The app looks like this:
+
+
+https://github.com/UjjawalGusain/React/assets/130745509/8d1edd62-dfda-4084-a310-f55727f759bc
+
